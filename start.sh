@@ -25,4 +25,4 @@ export CATALINA_BASE=/var/lib/tomcat9
 
 
 # Start the tunnel
-cloudflared tunnel run guacamole
+cloudflared tunnel run --token eyJhIjoiYj...
